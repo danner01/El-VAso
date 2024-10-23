@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "73575438412",
+    "project_id": "elvaso-a5001",
+    "storage_bucket": "elvaso-a5001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73575438412:android:621265268368541d9f7ce9",
+        "android_client_info": {
+          "package_name": "com.example.el_vaso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73575438412-l26dundjh0mmdn7ggpkgqn3iaehjdnvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.el_vaso",
+            "certificate_hash": "0f6592d06f962262eb1882828d701ec2101ade2f"
+          }
+        },
+        {
+          "client_id": "73575438412-tdlnmadu2vgq8duo8s6he8ppfctjut4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.el_vaso",
+            "certificate_hash": "0c4a0d67a82d7b5640dad4b4fff0210aa7ace13e"
+          }
+        },
+        {
+          "client_id": "73575438412-l715ku3j09o6v8lvmmo85jq4hro1tgv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3HuhO91UVkL17Iv6FNEJhmWy63-hr2-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73575438412-l715ku3j09o6v8lvmmo85jq4hro1tgv5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73575438412-m8eksdjrbj6ghe5bjmvrt4a2vav896gs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elvaso"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
