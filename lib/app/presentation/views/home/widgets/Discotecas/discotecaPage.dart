@@ -48,9 +48,9 @@ class _DiscotecaPageViewState extends State<DiscotecaPageView> {
               builder: (context, configState) {
                 return Center(
                     child: Column(
-                  children: const [
+                  children: [
                     Image.asset(
-                      disco.banner!,
+                      stateDiscos.selectDisco.banner!,
                       width: double.infinity,
                       height: double.infinity,
                       fit: BoxFit.cover,
